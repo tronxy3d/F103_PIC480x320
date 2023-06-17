@@ -20,7 +20,7 @@
 #define UI_MARLIN_DEFAULT  0
 #define UI_PIC480X320      1
 
-#define TRONXY_PROJ        PROJ_XY3SE
+//#define TRONXY_PROJ        PROJ_X5SA_PRO
 #define TRONXY_UI          UI_PIC480X320 // UI_PIC480X320 or UI_MARLIN_DEFAULT
 
 #if TRONXY_UI > 0
